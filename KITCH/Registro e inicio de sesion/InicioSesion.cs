@@ -28,49 +28,46 @@ namespace KITCH.Registro_e_inicio_de_sesion
             string nombreUsuario = txtNombreUser.Text.Trim();
             string contrasena = txtContraseñaUser.Text;
 
-            // 1. Validación de campos vacíos
-            if (string.IsNullOrEmpty(nombreUsuario) || string.IsNullOrEmpty(contrasena))
-            {
-                MessageBox.Show("Por favor, ingrese el nombre de usuario y la contraseña.", "Campos Requeridos", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
-            }
+            // ... (Validación de campos vacíos) ...
 
             try
             {
-                // 2. Llamada a la Capa de Negocio para autenticar
                 DataTable datosUsuario = _usuarioBLL.IniciarSesion(nombreUsuario, contrasena);
 
                 if (datosUsuario != null && datosUsuario.Rows.Count > 0)
                 {
-                    // INICIO DE SESIÓN EXITOSO
                     DataRow row = datosUsuario.Rows[0];
 
                     // ----------------------------------------------------------------------
-                    // ✅ CREACIÓN DEL OBJETO USUARIO Y PASO DE DATOS
+                    // ✅ CORRECCIÓN CLAVE: OBTENER Y ASIGNAR ID DEL RESTAURANTE
                     // ----------------------------------------------------------------------
+
+                    // 1. Asignar datos a la Sesión Global
+                    int idRestauranteLogueado = Convert.ToInt32(row["id_restaurante"]);
+
+                    // 🔑 Asignación a la clase global de sesión (que se usa en MenuCamarero)
+                    KITCH.Globales.SesionActual.IdRestaurante = idRestauranteLogueado;
+                    KITCH.Globales.SesionActual.IdUsuario = Convert.ToInt32(row["id_usuario"]);
+                    // (Asigna también el Nombre del Restaurante si lo tienes)
+
+                    // 2. Crear el objeto UsuarioLogueado (para pasar al siguiente formulario)
                     Usuario usuarioLogueado = new Usuario
                     {
-                        IdUsuario = Convert.ToInt32(row["id_usuario"]),
+                        IdUsuario = KITCH.Globales.SesionActual.IdUsuario,
                         Email = row["email"].ToString(),
                         Nombre = row["nombre"].ToString(),
-                        Apellido = row["apellido"].ToString(),
-                        Rol = row["rol"].ToString()
+                        // ... (Otras propiedades)
+                        // ⚠️ No te olvides de cargar el IdRestaurante en el objeto Usuario si es necesario
                     };
 
-                    MessageBox.Show($"Bienvenido, {usuarioLogueado.Nombre}! Ha iniciado sesión como {usuarioLogueado.Rol}.", "Acceso Concedido", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show($"Bienvenido, {usuarioLogueado.Nombre}! Ha iniciado sesión en Restaurante ID: {idRestauranteLogueado}.", "Acceso Concedido", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-                    // ----------------------------------------------------------------------
-                    // ✅ 3. LÓGICA DE REDIRECCIÓN
-                    // ----------------------------------------------------------------------
-
+                    // 3. Redirección
                     this.Hide();
 
-                    // ⚠️ PASAR EL OBJETO USUARIO AL CONSTRUCTOR DEL FORMULARIO PRINCIPAL
                     SeleccionRestaurante formPrincipal = new SeleccionRestaurante(usuarioLogueado);
-
                     PantallaCarga pantallaCarga = new PantallaCarga(formPrincipal);
                     pantallaCarga.Show();
-
                     Application.DoEvents();
 
                 }

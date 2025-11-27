@@ -18,5 +18,7 @@ namespace KITCH.Modelos
         /// Verifica si el usuario tiene el rol de Administrador Principal.
         /// </summary>
         public bool EsAdministradorPrincipal => Rol == "Administrador Principal";
+
+        public int IdRestaurante { get; internal set; }
     }
 }

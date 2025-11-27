@@ -3,19 +3,51 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\KITCH\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\principales\\menucamarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\principales\\menucamarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\principales\\menucamarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\principales\\menucamarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\principales\\seleccionrestaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\principales\\seleccionrestaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\clases\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\clases\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|c:\\users\\dell\\source\\repos\\kitch\\kitch\\principales\\seleccionrestaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\clases\\usuariobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\clases\\usuariobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Registro e inicio de sesion\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KITCH\\Registro e inicio de sesion\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\clases\\restaurantedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\clases\\restaurantedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\registro e inicio de sesion\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\registro e inicio de sesion\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\registro e inicio de sesion\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\registro e inicio de sesion\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\clases\\sesionbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\clases\\sesionbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\clases\\sesiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\clases\\sesiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\clases\\sesionactual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\clases\\sesionactual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|c:\\users\\dell\\source\\repos\\kitch\\kitch\\principales\\menucamarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\principales\\menucamarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\principales\\seleccionrestaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\principales\\seleccionrestaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,48 +55,24 @@
       "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\clases\\restaurantebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\clases\\restaurantedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\clases\\restaurantedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\clases\\sesionbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\clases\\sesionbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\clases\\sesionactual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\clases\\sesionactual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\clases\\sesiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\clases\\sesiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\clases\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\clases\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\utilidades\\plantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\utilidades\\plantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\clases\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\clases\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\registro e inicio de sesion\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\registro e inicio de sesion\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\registro e inicio de sesion\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\registro e inicio de sesion\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\clases\\usuariobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\clases\\usuariobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\principales\\seleccionrestaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\principales\\seleccionrestaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\clases\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\clases\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\registro e inicio de sesion\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\registro e inicio de sesion\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\utilidades\\plantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\utilidades\\plantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\registro e inicio de sesion\\pantallacarga.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\registro e inicio de sesion\\pantallacarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\registro e inicio de sesion\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\registro e inicio de sesion\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\registro e inicio de sesion\\pantallacarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\registro e inicio de sesion\\pantallacarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -93,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|C:\\Users\\DELL\\source\\repos\\KITCH\\kitch\\utilidades\\plantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C47BC84-5921-42EC-B225-0C6E163F9C88}|KITCH\\KITCH.csproj|solutionrelative:kitch\\utilidades\\plantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Registro e inicio de sesion\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KITCH\\Registro e inicio de sesion\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SesionBLL.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Clases\\SesionBLL.cs",
               "RelativeDocumentMoniker": "KITCH\\Clases\\SesionBLL.cs",
@@ -130,19 +130,21 @@
               "RelativeToolTip": "KITCH\\Clases\\SesionBLL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T19:08:10.956Z"
+              "WhenOpened": "2025-11-27T19:08:10.956Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "SesionActual.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Clases\\SesionActual.cs",
               "RelativeDocumentMoniker": "KITCH\\Clases\\SesionActual.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Clases\\SesionActual.cs",
               "RelativeToolTip": "KITCH\\Clases\\SesionActual.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T18:50:46.143Z"
+              "WhenOpened": "2025-11-27T18:50:46.143Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -152,26 +154,27 @@
               "RelativeDocumentMoniker": "KITCH\\Clases\\SesionDAL.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Clases\\SesionDAL.cs",
               "RelativeToolTip": "KITCH\\Clases\\SesionDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T18:16:26.631Z"
+              "WhenOpened": "2025-11-27T18:16:26.631Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MenuCamarero.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Principales\\MenuCamarero.cs",
               "RelativeDocumentMoniker": "KITCH\\Principales\\MenuCamarero.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Principales\\MenuCamarero.cs",
               "RelativeToolTip": "KITCH\\Principales\\MenuCamarero.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAhwDgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAgwLoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T16:55:54.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "MenuCamarero.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Principales\\MenuCamarero.cs",
               "RelativeDocumentMoniker": "KITCH\\Principales\\MenuCamarero.cs",
@@ -183,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Restaurante.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Clases\\Restaurante.cs",
               "RelativeDocumentMoniker": "KITCH\\Clases\\Restaurante.cs",
@@ -191,61 +194,62 @@
               "RelativeToolTip": "KITCH\\Clases\\Restaurante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T16:21:10.142Z"
+              "WhenOpened": "2025-11-27T16:21:10.142Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "RestauranteBLL.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Clases\\RestauranteBLL.cs",
               "RelativeDocumentMoniker": "KITCH\\Clases\\RestauranteBLL.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Clases\\RestauranteBLL.cs",
               "RelativeToolTip": "KITCH\\Clases\\RestauranteBLL.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAowGwAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T21:34:08.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "RestauranteDAL.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Clases\\RestauranteDAL.cs",
               "RelativeDocumentMoniker": "KITCH\\Clases\\RestauranteDAL.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Clases\\RestauranteDAL.cs",
               "RelativeToolTip": "KITCH\\Clases\\RestauranteDAL.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAowHoAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T21:33:19.155Z"
+              "WhenOpened": "2025-11-26T21:33:19.155Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 3,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Registro e inicio de sesion\\Usuario.cs",
               "RelativeDocumentMoniker": "KITCH\\Registro e inicio de sesion\\Usuario.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Registro e inicio de sesion\\Usuario.cs",
               "RelativeToolTip": "KITCH\\Registro e inicio de sesion\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T21:31:52.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "SeleccionRestaurante.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Principales\\SeleccionRestaurante.cs",
               "RelativeDocumentMoniker": "KITCH\\Principales\\SeleccionRestaurante.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Principales\\SeleccionRestaurante.cs",
               "RelativeToolTip": "KITCH\\Principales\\SeleccionRestaurante.cs",
-              "ViewState": "AgIAAMgAAAAAAAAAAAAIwOQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAiwB4BAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T23:50:13.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "SeleccionRestaurante.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Principales\\SeleccionRestaurante.cs",
               "RelativeDocumentMoniker": "KITCH\\Principales\\SeleccionRestaurante.cs",
@@ -257,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "PantallaCarga.Designer.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Registro e inicio de sesion\\PantallaCarga.Designer.cs",
               "RelativeDocumentMoniker": "KITCH\\Registro e inicio de sesion\\PantallaCarga.Designer.cs",
@@ -269,55 +273,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "InicioSesion.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Registro e inicio de sesion\\InicioSesion.cs",
               "RelativeDocumentMoniker": "KITCH\\Registro e inicio de sesion\\InicioSesion.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Registro e inicio de sesion\\InicioSesion.cs",
               "RelativeToolTip": "KITCH\\Registro e inicio de sesion\\InicioSesion.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAswE8AAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwv0YAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T21:21:55.008Z"
+              "WhenOpened": "2025-11-25T21:21:55.008Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "RegistroUsuario.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Registro e inicio de sesion\\RegistroUsuario.cs",
               "RelativeDocumentMoniker": "KITCH\\Registro e inicio de sesion\\RegistroUsuario.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Registro e inicio de sesion\\RegistroUsuario.cs",
               "RelativeToolTip": "KITCH\\Registro e inicio de sesion\\RegistroUsuario.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAwwG4AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwBgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T18:51:06.44Z"
+              "WhenOpened": "2025-11-25T18:51:06.44Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "UsuarioBLL.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Clases\\UsuarioBLL.cs",
               "RelativeDocumentMoniker": "KITCH\\Clases\\UsuarioBLL.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Clases\\UsuarioBLL.cs",
               "RelativeToolTip": "KITCH\\Clases\\UsuarioBLL.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAIwJUAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwI4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T23:28:11.534Z"
+              "WhenOpened": "2025-11-24T23:28:11.534Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "UsuarioDAL.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Clases\\UsuarioDAL.cs",
               "RelativeDocumentMoniker": "KITCH\\Clases\\UsuarioDAL.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Clases\\UsuarioDAL.cs",
               "RelativeToolTip": "KITCH\\Clases\\UsuarioDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowEwAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T23:25:25.523Z"
+              "WhenOpened": "2025-11-24T23:25:25.523Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "PantallaCarga.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Registro e inicio de sesion\\PantallaCarga.cs",
               "RelativeDocumentMoniker": "KITCH\\Registro e inicio de sesion\\PantallaCarga.cs",
@@ -329,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "PantallaCarga.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Registro e inicio de sesion\\PantallaCarga.cs",
               "RelativeDocumentMoniker": "KITCH\\Registro e inicio de sesion\\PantallaCarga.cs",
@@ -340,29 +348,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 15,
               "Title": "InicioSesion.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Registro e inicio de sesion\\InicioSesion.cs",
               "RelativeDocumentMoniker": "KITCH\\Registro e inicio de sesion\\InicioSesion.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Registro e inicio de sesion\\InicioSesion.cs [Dise\u00F1o]",
               "RelativeToolTip": "KITCH\\Registro e inicio de sesion\\InicioSesion.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T22:07:42.133Z"
+              "WhenOpened": "2025-11-24T22:07:42.133Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "RegistroUsuario.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Registro e inicio de sesion\\RegistroUsuario.cs",
               "RelativeDocumentMoniker": "KITCH\\Registro e inicio de sesion\\RegistroUsuario.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Registro e inicio de sesion\\RegistroUsuario.cs [Dise\u00F1o]",
               "RelativeToolTip": "KITCH\\Registro e inicio de sesion\\RegistroUsuario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T20:28:37.2Z"
+              "WhenOpened": "2025-11-24T20:28:37.2Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Plantilla.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Utilidades\\Plantilla.cs",
               "RelativeDocumentMoniker": "KITCH\\Utilidades\\Plantilla.cs",
@@ -374,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Clases\\Program.cs",
               "RelativeDocumentMoniker": "KITCH\\Clases\\Program.cs",
@@ -386,19 +396,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "ConexionDB.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Clases\\ConexionDB.cs",
               "RelativeDocumentMoniker": "KITCH\\Clases\\ConexionDB.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Clases\\ConexionDB.cs",
               "RelativeToolTip": "KITCH\\Clases\\ConexionDB.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAgwC4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T18:40:25.748Z"
+              "WhenOpened": "2025-11-24T18:40:25.748Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Plantilla.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\KITCH\\KITCH\\Utilidades\\Plantilla.cs",
               "RelativeDocumentMoniker": "KITCH\\Utilidades\\Plantilla.cs",
